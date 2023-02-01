@@ -35,6 +35,6 @@ To earn enrichment credit, you should complete three of the following by the end
 
 ### Option 5: *Cooking Data* Reflection
 
-> Finish reading *Cooking Data*. Write a 500-600-word memo responding to the following prompt: .... Your memo must have a thesis statement that makes one succinct argument in the first paragraph, along with three supporting points. You should reference specific examples from the book (including at least one from an unassigned chapter) to back up your three supporting points. 
+> Finish reading *Cooking Data*. Write a 500-600-word memo responding to the following question, which is quoted directly from Biruk's book: "How do on-the-ground dynamics and practices of survey research cultures mediate the production of numbers?" Your memo must have a thesis statement that makes one succinct argument in the first paragraph, along with three supporting points. You should reference specific examples from the book (including at least one from an unassigned chapter) to back up your three supporting points. 
 
 
