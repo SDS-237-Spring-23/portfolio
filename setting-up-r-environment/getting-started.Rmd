@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 author: "ADD YOUR NAME"
-date: "1/24/2022"
+date: "2/1/2023"
 output: html_document
 csl: ../resources/chicago-author-date.csl
 ---
@@ -123,7 +123,7 @@ If we want to add bullets to an R Markdown file, we can add asterisks (*) and a 
 
 If we want to add a hyper-link to an R Markdown file, we can place the text we want hyper-linked in brackets '[]' and the link in parentheses '()' immediately following the bracketed text:
 
-[This is a link to our GitHub organization.](https://github.com/SDS-237-Data-Ethnography-Spring-22) 
+[This is a link to our GitHub organization.](https://github.com/SDS-237-Data-Ethnography) 
 
 We can add images in a similar way, but include an ! beforehand. 
 
