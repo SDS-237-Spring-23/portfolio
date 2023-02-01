@@ -54,3 +54,5 @@ library(rmarkdown)
 15. Navigate to https://github.com/SDS-237-Data-Ethnography-Spring-22/portfolio-YOUR_USER_NAME and click on the Pull Requests tab. Click New Pull Request. Where the button says 'base: ' make sure 'main' is selected. Where the button says 'compare: ' make sure your branch is selected. Click Create Pull Request.
 
 16. Merge your pull request so that the changes in your branch get pulled to the main branch. 
+
+**Be sure to never close or merge the 'Feedback' Pull Request. I need to this to review your work.**
