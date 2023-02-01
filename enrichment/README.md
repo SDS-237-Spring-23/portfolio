@@ -29,7 +29,7 @@ To earn enrichment credit, you should complete three of the following by the end
 
 > Write a 500-600-word memo in `fieldnote-synthesis.Rmd` synthesizing and making broader connections across at least 3 of your journal entries. What have you learned about how data and culture co-constitute each other via your fieldnotes? You might think about how data discourse, education, expertise, or infrastructures materialize, operate, transform, or get contested. Be sure to cite specific examples from each of the entries in your response.
 
-### Option 4: Read the Entire Cooking Data book
+### Option 4: Double community labor
 
 > Earn 8 community labor points by March 9. Earn an additional 8 community labor points by the end of the semester.
 
