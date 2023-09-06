@@ -25,7 +25,7 @@ For your second mini-project assignment, you should select one of the following 
 ### [Interview a data professional](interview)
 ### [Participant Observation](participant-observation)
 
-Each of these assignments involves collecting some ethnographic data, interpreting the data, determining a central point that the data supports, and then writing it up in a memo that draws from your data to support that point. This means that mini-project write-ups will be more polished than your fieldnotes (i.e. you don't need to identify and support a central point or argument in your fieldnotes).
+Each of these assignments involves collecting some ethnographic data, interpreting the data, determining a central point that the data supports, and then writing it up in a memo that draws from your data to support that point. This means that mini-project write-ups will be more polished than your field notes (i.e. you don't need to identify and support a central point or argument in your field notes).
 
 ### Revision
 
